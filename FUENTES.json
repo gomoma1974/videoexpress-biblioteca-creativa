@@ -1,0 +1,111 @@
+{
+  "version_biblioteca": "0.1",
+  "idioma": "es",
+  "modo": "asesoramiento_y_produccion_manual_por_el_usuario",
+  "fuentes": [
+    {
+      "id": "S1",
+      "repositorio": "https://github.com/ai-playbooks/videoexpress-stickman-story-agent",
+      "commit": "1eb57a9807f62430b39cbf422718e8a8a29ef7c1",
+      "consulta": "2026-10-21",
+      "licencia_declarada_en_metadatos": null,
+      "documentos_obtenidos_para_consulta": [
+        "README.md",
+        "SYSTEM_PROMPT.md",
+        "evals/acceptance-checklist.md",
+        "examples/beach-visit.md",
+        "examples/clumsy-diamond-heist.md",
+        "examples/continuous-cat-story.md",
+        "examples/example-request.md",
+        "examples/zoo-visit-2d.md"
+      ],
+      "documentos_originales_incluidos_en_esta_biblioteca": false,
+      "tipo_de_uso": "Síntesis propia de conocimientos técnicos para producción manual; atribución mediante enlaces."
+    },
+    {
+      "id": "S2",
+      "repositorio": "https://github.com/ai-playbooks/historical-documentary-video-workflow",
+      "commit": "25e4ac35b23266be76eb766a200a06e66f0c46b0",
+      "consulta": "2026-10-21",
+      "licencia_declarada_en_metadatos": null,
+      "documentos_obtenidos_para_consulta": [
+        "README.md",
+        "SYSTEM_PROMPT.md"
+      ],
+      "documentos_originales_incluidos_en_esta_biblioteca": false,
+      "tipo_de_uso": "Síntesis propia de conocimientos técnicos para producción manual; atribución mediante enlaces."
+    },
+    {
+      "id": "S3",
+      "repositorio": "https://github.com/ai-playbooks/vox-style-documentary",
+      "commit": "dc9c9a34fe96ee81faf3acf99def20daf91612ab",
+      "consulta": "2026-10-21",
+      "licencia_declarada_en_metadatos": null,
+      "documentos_obtenidos_para_consulta": [
+        "README.md",
+        "SYSTEM_PROMPT.md"
+      ],
+      "documentos_originales_incluidos_en_esta_biblioteca": false,
+      "tipo_de_uso": "Síntesis propia de conocimientos técnicos para producción manual; atribución mediante enlaces."
+    },
+    {
+      "id": "S4",
+      "repositorio": "https://github.com/ai-playbooks/slow_english_learning_videos",
+      "commit": "5657b8e785f4e1fe722565c83349a6abf301dc66",
+      "consulta": "2026-10-21",
+      "licencia_declarada_en_metadatos": null,
+      "documentos_obtenidos_para_consulta": [
+        "README.md",
+        "SYSTEM_PROMPT.md"
+      ],
+      "documentos_originales_incluidos_en_esta_biblioteca": false,
+      "tipo_de_uso": "Síntesis propia de conocimientos técnicos para producción manual; atribución mediante enlaces."
+    },
+    {
+      "id": "S5",
+      "repositorio": "https://github.com/ai-playbooks/nursery_rhyme_music_video",
+      "commit": "de32402474cc8a5b7e1781b1148f4077388c5f94",
+      "consulta": "2026-10-21",
+      "licencia_declarada_en_metadatos": null,
+      "documentos_obtenidos_para_consulta": [
+        "PROMPT_GUIDE.md",
+        "README.md",
+        "SYSTEM_PROMPT.md",
+        "WORKFLOW.json",
+        "WORKFLOW_STATE.example.json",
+        "WORKFLOW_STATE.json",
+        "prompt_book.json"
+      ],
+      "documentos_originales_incluidos_en_esta_biblioteca": false,
+      "tipo_de_uso": "Síntesis propia de conocimientos técnicos para producción manual; atribución mediante enlaces."
+    },
+    {
+      "id": "S6",
+      "repositorio": "https://github.com/ai-playbooks/clonevoice-videoexpress-2d-narrative-workflow",
+      "commit": "20e88aa8a6be3dc4c8f510fe9045a50aebcaa133",
+      "consulta": "2026-10-21",
+      "licencia_declarada_en_metadatos": null,
+      "documentos_obtenidos_para_consulta": [
+        "README.md",
+        "SYSTEM_PROMPT.md"
+      ],
+      "documentos_originales_incluidos_en_esta_biblioteca": false,
+      "tipo_de_uso": "Síntesis propia de conocimientos técnicos para producción manual; atribución mediante enlaces."
+    },
+    {
+      "id": "S7",
+      "repositorio": "https://github.com/ai-playbooks/videoexpress-consistent-character-talking-video",
+      "commit": "29b8a583cfd6c5b60e7e646fb917f51dbc0511f9",
+      "consulta": "2026-10-21",
+      "licencia_declarada_en_metadatos": null,
+      "documentos_obtenidos_para_consulta": [
+        "README.md",
+        "SYSTEM_PROMPT.md",
+        "evals/acceptance-checklist.md",
+        "examples/example-request.md"
+      ],
+      "documentos_originales_incluidos_en_esta_biblioteca": false,
+      "tipo_de_uso": "Síntesis propia de conocimientos técnicos para producción manual; atribución mediante enlaces."
+    }
+  ]
+}
