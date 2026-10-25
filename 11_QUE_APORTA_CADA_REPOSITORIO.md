@@ -1,6 +1,6 @@
 # 11 · Qué aporta cada repositorio
 
-Los identificadores S1–S7 enlazan con [12](12_FUENTES_Y_LIMITES.md) y FUENTES.json. Esta comparación convierte recetas concretas en recursos para dirigir escenas; no reproduce sus instrucciones de ejecución automática.
+Los identificadores S1–S8 enlazan con [12](12_FUENTES_Y_LIMITES.md) y FUENTES.json. Esta comparación convierte recetas concretas en recursos para dirigir escenas; no reproduce sus instrucciones de ejecución automática.
 
 ## S1 · Stickman story agent
 
@@ -57,6 +57,14 @@ Los identificadores S1–S7 enlazan con [12](12_FUENTES_Y_LIMITES.md) y FUENTES.
 **Para nuestro método:** un personaje que se dirige a cámara, responde o expresa una emoción. Podemos montar conversaciones con planos alternos.
 
 **Particular de la receta:** siete escenas y una onda emocional intensa, tipo Human y vertical como defaults, líneas inferiores a 100 caracteres en su ruta, un solo actor y duraciones solicitadas de ocho segundos. Ni la cantidad de escenas ni el salto emocional continuo son obligatorios. No demuestra que la voz del actor sea un preset de CloneVoice.
+
+## S8 · Realistic mini dramas
+
+**Aporta:** estructura de gancho, escalada, giro y remate; biblia breve de personajes; planificación de cada plano con una acción, un hablante y alternancia de encuadres; inicio del movimiento desde el primer fotograma; montaje por el primer y último momento útil. Documenta opciones concretas de estilo realista, 3D y 2D y muestra tres guiones completos.
+
+**Para nuestro método:** preparar minidramas y escenas publicitarias con tensión narrativa. La ficha [16](16_MINI_DRAMAS.md) adapta su planificación y sus controles a una producción realizada manualmente por el usuario. El recorte se añade a [08](08_MONTAJE_Y_EXPORTACION_MANUALES.md).
+
+**Particular de la receta:** 9:16, unos tres segundos finales por plano, frases de hasta ocho palabras, 4/5 segundos de generación, un tercio de planos sin diálogo, máximo tres personajes, giro hacia el 70 %, ausencia de música durante la generación y una ruta de habla nativa son elecciones para ese formato. Sus instrucciones de operar el navegador, generar todos los medios y exportar sin detenerse no se trasladan a esta biblioteca. Los nombres de controles y límites reflejan la interfaz observada por la fuente el 23 de octubre de 2026, no una garantía para todas las cuentas.
 
 ## Contradicciones que conviene resolver por contexto
 

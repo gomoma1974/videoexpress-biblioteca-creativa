@@ -11,6 +11,7 @@ Primero decide qué cambia en la historia. Después elige cómo mostrarlo. La mi
 | Explicar un proceso, dato o lugar histórico | [Documental](06_DOCUMENTAL_E_HISTORIA.md) | Fuentes de hechos, plano o diagrama y narración | Una imagen generada es una reconstrucción, no una prueba histórica |
 | Presentar una pregunta directamente al espectador | Presentador en Lipsync HD o habla nativa | Referencia y frase a cámara | Su encuadre y presencia responden al tono del proyecto |
 | Dar ritmo a una canción | [Montaje musical](07_MUSICA_Y_ESCENAS_SIN_DIALOGO.md) | Canción, segmentos visuales y acciones sin habla | Una canción externa no genera automáticamente labios cantando |
+| Contar un conflicto breve con giro y cierre | [Mini drama](16_MINI_DRAMAS.md) | Gancho, escalada, giro, fichas de personajes y planos de acción o diálogo | Su ritmo rápido es una opción narrativa, no una regla para todas las historias |
 
 ## Cuatro decisiones que conviene separar
 

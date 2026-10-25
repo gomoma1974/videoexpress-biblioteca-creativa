@@ -26,6 +26,8 @@ La carpeta Voiceover vacía no significa que un MP4 carezca de audio. Reproduce 
 
 Comprueba palabras completas, pausas naturales, cambios de voz, continuidad de objetos y duración real. Si separas Audio and Video para recortar un diálogo, aplica el mismo inicio y final a ambas partes. No alinees por separado trozos alternos de dos actores: podrías romper el tiempo de la conversación.
 
+Para un [mini drama de ritmo rápido](16_MINI_DRAMAS.md), localiza en cada clip el primer fotograma con acción útil o el inicio de la primera palabra. Recorta el arranque inmóvil y el tiempo sobrante después de la última acción o palabra. Conserva una pequeña entrada y salida para que no se corten sílabas ni reacciones. Puedes dividir con Cut en el cabezal y borrar cada fragmento sobrante con el menú contextual, o arrastrar los bordes del clip. Según S8, borrar deja un hueco: revisa el resultado y usa Auto Align Clips si ese montaje es de clips consecutivos. La escala de píxeles que cita S8 solo vale para el zoom con que la observó; guíate por la regla visible y por la reproducción. Una pausa intencionada de tensión no es material sobrante.
+
 Para una pista continua aprobada, ajusta la imagen a la voz. Si sobra vídeo al final: coloca el cabezal en el final real del audio, selecciona solo el vídeo que cruza ese punto, usa Cut y retira únicamente el fragmento visual sobrante de la línea de tiempo. Conserva el archivo fuente y el audio aprobado.
 
 Si falta imagen, necesitamos más cobertura o replantear su duración. No aceleres la voz ni congeles una escena por defecto para ocultar una planificación corta.

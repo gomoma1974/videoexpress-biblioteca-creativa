@@ -1,5 +1,5 @@
 {
-  "version_biblioteca": "0.1",
+  "version_biblioteca": "0.2",
   "idioma": "es",
   "modo": "asesoramiento_y_produccion_manual_por_el_usuario",
   "fuentes": [
@@ -106,6 +106,26 @@
       ],
       "documentos_originales_incluidos_en_esta_biblioteca": false,
       "tipo_de_uso": "Síntesis propia de conocimientos técnicos para producción manual; atribución mediante enlaces."
+    },
+    {
+      "id": "S8",
+      "repositorio": "https://github.com/ai-playbooks/realistic-mini-dramas",
+      "commit": "51f18c8b96622da5c1eeb3882a24dade5d1e529c",
+      "consulta": "2026-10-25",
+      "licencia_declarada_en_metadatos": null,
+      "documentos_obtenidos_para_consulta": [
+        "README.md",
+        "PLAYBOOK.md",
+        "skills/realistic-mini-dramas/references/fast-pacing-and-trim.md",
+        "skills/realistic-mini-dramas/references/videoexpress-ui-map.md",
+        "docs/troubleshooting.md",
+        "examples/README.md",
+        "examples/realistic-the-last-delivery.md",
+        "examples/3d-hold-the-line.md",
+        "examples/2d-office-heist.md"
+      ],
+      "documentos_originales_incluidos_en_esta_biblioteca": false,
+      "tipo_de_uso": "Síntesis propia de dramaturgia, configuración y montaje para producción manual; atribución mediante enlaces."
     }
   ]
 }
