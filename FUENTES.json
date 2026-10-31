@@ -1,5 +1,5 @@
 {
-  "version_biblioteca": "0.2",
+  "version_biblioteca": "0.3",
   "idioma": "es",
   "modo": "asesoramiento_y_produccion_manual_por_el_usuario",
   "fuentes": [
@@ -126,6 +126,27 @@
       ],
       "documentos_originales_incluidos_en_esta_biblioteca": false,
       "tipo_de_uso": "Síntesis propia de dramaturgia, configuración y montaje para producción manual; atribución mediante enlaces."
+    },
+    {
+      "id": "S9",
+      "repositorio": "https://github.com/ratava/videoexpress-scripting-skill",
+      "version": "2.6.0",
+      "tag": "v2.6.0",
+      "consulta": "2026-10-31",
+      "licencia_declarada_en_descripcion": "CC BY-NC 4.0",
+      "metadatos_licencia_github": "NOASSERTION",
+      "documentos_consultados": [
+        "SKILL.md",
+        "referencias de planificación del proyecto",
+        "biblia de personajes y escenas",
+        "plantillas de clips múltiples",
+        "reglas de prompts",
+        "movimiento de cámara",
+        "luz, sonido y diálogo",
+        "índice de estilos"
+      ],
+      "documentos_originales_incluidos_en_esta_biblioteca": false,
+      "tipo_de_uso": "Síntesis original en español de flujo creativo, continuidad, prompting y revisión para producción manual; atribución mediante enlace. Sin redistribuir la skill ni sus archivos de automatización."
     }
   ]
 }
