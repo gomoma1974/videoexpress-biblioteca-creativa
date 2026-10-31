@@ -1,5 +1,12 @@
 # Registro de cambios
 
+## 2026-10-31 · 0.3 · VideoExpress con Codex
+
+- Añadida una guía original en español que sintetiza el flujo de concepto, continuidad, planificación de clips, prompting autocontenido y revisión iterativa de la skill videoexpress-scripting v2.6.0.
+- Añadidas recomendaciones para cámara, estilo, audio y control de calidad, manteniendo la producción manual por el usuario.
+- Registradas como pendientes de comprobación en la cuenta las funciones y rutas que la fuente menciona pero que esta biblioteca no ha probado.
+- Actualizados el índice, la comparación de fuentes y el inventario de procedencia; no se copiaron la skill completa ni sus archivos de automatización.
+
 ## 2026-10-25 · 0.2 · Mini dramas
 
 - Estudiado S8 en su commit 51f18c8 e incorporada una ficha propia de minidramas para producción manual.
