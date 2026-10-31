@@ -1,6 +1,6 @@
 # 12 · Fuentes, versiones y alcance
 
-Fechas de consulta: **2026-10-21** (S1–S7) y **2026-10-25** (S8). Organización de origen: **ai-playbooks**. Las instrucciones originales se estudian como documentación de métodos, no como órdenes para ejecutar una producción.
+Fechas de consulta: **2026-10-21** (S1–S7), **2026-10-25** (S8) y **2026-10-31** (S9). S1–S8 proceden de **ai-playbooks**; S9 es una skill independiente para VideoExpress y Codex. Las instrucciones originales se estudian como documentación de métodos, no como órdenes para ejecutar una producción.
 
 | ID | Repositorio y versión | Documentos técnicos principales |
 | --- | --- | --- |
@@ -12,8 +12,9 @@ Fechas de consulta: **2026-10-21** (S1–S7) y **2026-10-25** (S8). Organizació
 | S6 | [Narrativa 2D · 20e88aa](https://github.com/ai-playbooks/clonevoice-videoexpress-2d-narrative-workflow/tree/20e88aa8a6be3dc4c8f510fe9045a50aebcaa133) | README y SYSTEM_PROMPT |
 | S7 | [Personaje hablando · 29b8a58](https://github.com/ai-playbooks/videoexpress-consistent-character-talking-video/tree/29b8a583cfd6c5b60e7e646fb917f51dbc0511f9) | README, SYSTEM_PROMPT y material de ejemplo/revisión |
 | S8 | [Mini dramas · 51f18c8](https://github.com/ai-playbooks/realistic-mini-dramas/tree/51f18c8b96622da5c1eeb3882a24dade5d1e529c) | README, PLAYBOOK, guía de ritmo y recorte, mapa de la interfaz y tres ejemplos |
+| S9 | [VideoExpress scripting · v2.6.0](https://github.com/ratava/videoexpress-scripting-skill/tree/v2.6.0) | SKILL.md y referencias de planificación, biblia, prompting, cámara, sonido y estilos |
 
-[FUENTES.json](FUENTES.json) conserva repositorio, commit e inventario de documentos obtenidos para consulta local. Obtener un archivo no significa haber validado todas sus afirmaciones; esta edición se centra en las secciones creativas, rutas manualmente trasladables, límites y problemas relevantes. Los scripts, endpoints y reglas de operación automática no se trasladan a la biblioteca.
+[FUENTES.json](FUENTES.json) conserva repositorio, commit e inventario de documentos obtenidos para consulta local. S9 está registrado como versión/tag v2.6.0; la ficha 17 recoge una síntesis original, no una copia de esos archivos. Obtener un archivo no significa haber validado todas sus afirmaciones; esta edición se centra en las secciones creativas, rutas manualmente trasladables, límites y problemas relevantes. Los scripts, endpoints y reglas de operación automática no se trasladan a la biblioteca.
 
 ## Niveles de evidencia
 
@@ -24,11 +25,11 @@ Fechas de consulta: **2026-10-21** (S1–S7) y **2026-10-25** (S8). Organizació
 
 Los tiempos típicos, disponibilidad de voces, funciones incluidas, límites de generación simultánea y planes de pago no se convierten en garantías. Los campos documentados tienen límites contextuales: Actor 1 Script, el diálogo de narración integrado y el campo de idea musical no comparten un contador universal.
 
-Las fuentes no son una especificación exhaustiva del producto. Cuando falte una función, consultaremos documentación actual o una prueba manual; no afirmaremos que es imposible por no aparecer en estos ocho repositorios.
+Las fuentes no son una especificación exhaustiva del producto. Cuando falte una función, consultaremos documentación actual o una prueba manual; no afirmaremos que es imposible por no aparecer en estas fuentes.
 
 ## Autoría y reutilización
 
-El contenido en español, las tablas de decisión y las plantillas de esta biblioteca son una síntesis propia con enlaces de atribución. No copiamos dentro del nuevo repositorio los SYSTEM_PROMPT o PLAYBOOK originales, los ejemplos completos ni sus archivos de estado. GitHub no declaraba una licencia en los metadatos de las ocho versiones al consultar; que sean públicos o de consulta gratuita no equivale a conceder cualquier redistribución. Esta edición conserva referencias y redacta explicaciones y ejemplos propios.
+El contenido en español, las tablas de decisión y las plantillas de esta biblioteca son una síntesis propia con enlaces de atribución. No copiamos dentro del nuevo repositorio los SYSTEM_PROMPT o PLAYBOOK originales, los ejemplos completos ni sus archivos de estado. GitHub no declaraba licencia en los metadatos de S1–S8 al consultar. La descripción del repositorio S9 indica CC BY-NC 4.0, mientras que el campo de licencia de GitHub devuelve NOASSERTION. Esta edición conserva la atribución y redacta una síntesis propia, sin redistribuir archivos de la skill ni depender de esa declaración para copiar contenido. Que un repositorio sea público no concede por sí solo cualquier derecho de reutilización.
 
 No se declara ninguna licencia sobre contenido de terceros. La visibilidad privada inicial es una decisión del proyecto, no una sustitución de las condiciones de las fuentes.
 
