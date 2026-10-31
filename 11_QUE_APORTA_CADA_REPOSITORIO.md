@@ -1,6 +1,6 @@
 # 11 · Qué aporta cada repositorio
 
-Los identificadores S1–S8 enlazan con [12](12_FUENTES_Y_LIMITES.md) y FUENTES.json. Esta comparación convierte recetas concretas en recursos para dirigir escenas; no reproduce sus instrucciones de ejecución automática.
+Los identificadores S1–S9 enlazan con [12](12_FUENTES_Y_LIMITES.md) y FUENTES.json. Esta comparación convierte recetas concretas en recursos para dirigir escenas; no reproduce sus instrucciones de ejecución automática.
 
 ## S1 · Stickman story agent
 
@@ -65,6 +65,12 @@ Los identificadores S1–S8 enlazan con [12](12_FUENTES_Y_LIMITES.md) y FUENTES.
 **Para nuestro método:** preparar minidramas y escenas publicitarias con tensión narrativa. La ficha [16](16_MINI_DRAMAS.md) adapta su planificación y sus controles a una producción realizada manualmente por el usuario. El recorte se añade a [08](08_MONTAJE_Y_EXPORTACION_MANUALES.md).
 
 **Particular de la receta:** 9:16, unos tres segundos finales por plano, frases de hasta ocho palabras, 4/5 segundos de generación, un tercio de planos sin diálogo, máximo tres personajes, giro hacia el 70 %, ausencia de música durante la generación y una ruta de habla nativa son elecciones para ese formato. Sus instrucciones de operar el navegador, generar todos los medios y exportar sin detenerse no se trasladan a esta biblioteca. Los nombres de controles y límites reflejan la interfaz observada por la fuente el 23 de octubre de 2026, no una garantía para todas las cuentas.
+
+## S9 · VideoExpress scripting para Codex
+
+**Aporta:** un recorrido de concepto a clips: biblia de continuidad, tabla de planos, prompts autocontenidos, acción clara, cámara intencional y revisión iterativa de resultados. La ficha [17](17_VIDEOEXPRESS_CON_CODEX.md) adapta estos principios a nuestra colaboración manual.
+
+**Particular de la receta:** sus plantillas, referencias y nombres de campos pertenecen a una skill y a versiones concretas. Sus instrucciones de automatización no se incorporan; las funciones mencionadas que no hemos probado en nuestra cuenta quedan como pendientes. Artistly y CloneVoice ya se tratan en S5 y en [07](07_MUSICA_Y_ESCENAS_SIN_DIALOGO.md).
 
 ## Contradicciones que conviene resolver por contexto
 
