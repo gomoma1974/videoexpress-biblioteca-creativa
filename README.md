@@ -33,6 +33,7 @@ La IA actúa como colaboradora de guion, dirección y preparación: recomienda t
 | [14. Plantillas de trabajo](14_PLANTILLAS_DE_TRABAJO.md) | Brief, ficha de escena, continuidad y registro de pruebas |
 | [15. Ejemplo combinado](15_EJEMPLO_HISTORIA_COMBINADA.md) | Una historia que alterna narrador, diálogo y acción |
 | [16. Mini dramas](16_MINI_DRAMAS.md) | Gancho, escalada, giro, personajes, planos breves y recorte manual |
+| [17. VideoExpress con Codex](17_VIDEOEXPRESS_CON_CODEX.md) | Flujo de trabajo, prompts autocontenidos, continuidad y revisión por clip |
 | [Registro de cambios](CHANGELOG.md) | Evolución de la biblioteca |
 
 ## Cómo usarla en otra conversación
@@ -45,6 +46,6 @@ Un repositorio privado requiere acceso autorizado en esa conversación. Facilita
 
 ## Estado de la edición
 
-Versión inicial: **21 de octubre de 2026**; ampliada el **25 de octubre de 2026** con mini dramas. Síntesis propia basada en ocho repositorios de `ai-playbooks`, con versiones en [FUENTES.json](FUENTES.json). Las rutas corresponden a las interfaces descritas por esas fuentes, principalmente VideoExpress 3.5; comprueba siempre el nombre y el límite que muestre tu cuenta. Las plantillas originales de esta biblioteca son puntos de partida, todavía sin una validación completa en producción manual.
+Versión inicial: **21 de octubre de 2026**; ampliada el **25 de octubre de 2026** con mini dramas y el **31 de octubre de 2026** con una síntesis de la skill VideoExpress para Codex. Fuentes y versiones en [FUENTES.json](FUENTES.json). Las rutas corresponden a las interfaces descritas por esas fuentes, principalmente VideoExpress 3.5; comprueba siempre el nombre y el límite que muestre tu cuenta. Las plantillas originales de esta biblioteca son puntos de partida, todavía sin una validación completa en producción manual.
 
 La biblioteca combina técnicas y conserva el estilo elegido para cada proyecto. No impone que todos los vídeos sean stickman, que tengan siete escenas ni que usen una voz concreta.
